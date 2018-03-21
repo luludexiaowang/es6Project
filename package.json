@@ -33,5 +33,14 @@
     "webpack": "^2.2.1",
     "webpack-stream": "^3.2.0",
     "yargs": "^7.0.2"
+  },
+  "dependencies": {
+    "cookie-parse": "^0.4.0",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "mockjs": "^1.0.1-beta3",
+    "morgan": "^1.9.0",
+    "serve-favicon": "^2.4.5"
   }
 }

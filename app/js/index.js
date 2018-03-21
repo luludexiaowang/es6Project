@@ -1,7 +1,9 @@
 import 'babel-polyfill';
-// import Lottery from './lottery';
+// import './class/lesson11'
 
-// const syy=new Lottery();
+import Lottery from './lottery';
 
-// console.log(syy);
-import './class/lesson11'
+const syy=new Lottery();
+
+console.log(syy);
+
